@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
 
 - 🌱 I’m currently studying at the university
 - 🔭 I’m currently working on personal projects
