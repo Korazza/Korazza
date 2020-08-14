@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying at the university
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on personal projects
 - 📫 How to reach me: corattiroberto@gmail.com
