@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Korazza</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 📫 How to reach me **corattiroberto@gmail.com**
 
