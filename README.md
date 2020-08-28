@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roberto Coratti</h1>
+<h1 align="center">Hi 👋, I'm Korazza</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 🌱 I’m currently learning **Vue.js**
