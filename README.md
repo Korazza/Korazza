@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roberto</h1>
+<h1 align="center">Hi, I'm Roberto</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
 - 🌱 I’m currently learning **GraphQL**
