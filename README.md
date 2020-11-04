@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 📫 How to reach me **corattiroberto@gmail.com**
+- 📫 How to reach me: **corattiroberto@gmail.com**
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
