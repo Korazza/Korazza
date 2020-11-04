@@ -8,7 +8,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react&card_width=400" alt="korazza" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react&card_width=450" alt="korazza" />
 </p>
 
 <p align="center">
