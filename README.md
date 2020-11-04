@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **corattiroberto@gmail.com**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react" alt="korazza" />
-</p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react" alt="korazza" />
+
