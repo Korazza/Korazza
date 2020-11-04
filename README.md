@@ -6,6 +6,6 @@
 - 📫 How to reach me **corattiroberto@gmail.com**
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react&card_width=80" alt="korazza" />
+<img src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korazza&layout=compact&hide=html&theme=react" alt="korazza" />
 
