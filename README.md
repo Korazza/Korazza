@@ -1,7 +1,7 @@
 <h1 align="center">Roberto Coratti</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me • **corattiroberto@gmail.com**
 
