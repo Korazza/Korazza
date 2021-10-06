@@ -1,6 +1,6 @@
 <h1 align="center">Roberto Coratti</h1>
 
-📫 **corattiroberto@gmail.com**
+<h3 align="center">📫 corattiroberto@gmail.com</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=korazza&show_icons=true&theme=react" alt="korazza" />
